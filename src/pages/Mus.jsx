@@ -79,7 +79,6 @@ const Mus = () => {
             </div>
           </div>
         </div>
-        <marquee>Ahmedova Salomat E'tiboringiz uchun rahmat:)</marquee>
       </Container>
     </Container>
   );
